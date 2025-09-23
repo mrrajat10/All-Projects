@@ -54,4 +54,4 @@ This repository contains several Python projects demonstrating **OOP, loops, exc
 **How to Run**  
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/Python-Projects.git
+git clone https://github.com/mrrajat10/All-Projects.git
